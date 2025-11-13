@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dealer Locator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <div style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+        <div style="flex: 1;">
+            <input type="text" id="addressInput" placeholder="Enter address or zip code(e.g., 75205) " style="width: 100%; padding: 8px;" />
+        </div>
+        <button id="searchButton" style="padding: 8px 16px;">Find Dealers</button>
+        <div style="flex: 1;">
+            <select id="nearestStoresDropdown" style="width: 100%; padding: 8px;">
+                <option value="">View Nearest 3 Dealer(s)</option>
+            </select>
+        </div>
+    </div>
+    <div id="map" style="width: 100%; height: 90vh; margin-top: 10px;"></div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnDM_7BDxkDKsqvhA_H59CrVRWC9-Yo9Q&libraries=places" async defer></script>
+    <script>
+        let map;
+        let markers = [];
+        let dealerLocations = [];
+
+        // Load dealer data from JSON file
+        async function loadDealerData() {
+            try {
+                const response = await fetch('dealers.json');
+                dealerLocations = await response.json();
+            } catch (error) {
+                console.error('Error loading dealer data:', error);
+            }
+        }
+
+        function initMap() {
+            const defaultLocation = { lat: 32.8936, lng: -96.6810 };
+            map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 10,
+                center: defaultLocation
+            });
+        }
+
+        function calculateDistance(lat1, lon1, lat2, lon2) {
+            const R = 3958.8;
+            const dLat = (lat2 - lat1) * Math.PI / 180;
+            const dLon = (lon2 - lon1) * Math.PI / 180;
+            const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            return R * c;
+        }
+
+        function findNearestStores(userLocation) {
+            const distances = dealerLocations.map(store => ({
+                ...store,
+                distance: calculateDistance(userLocation.lat, userLocation.lng, store.lat, store.lng)
+            }));
+            return distances.sort((a, b) => a.distance - b.distance).slice(0, 3);
+        }
+
+        function populateDropdown(stores) {
+            const dropdown = document.getElementById('nearestStoresDropdown');
+            dropdown.innerHTML = '<option value="">Select a Dealer</option>';
+            stores.forEach(store => {
+                const option = document.createElement('option');
+                option.value = store.website || '';
+                option.textContent = `${store.name} - ${store.distance.toFixed(2)} miles`;
+                option.dataset.address = store.Address;
+                option.dataset.number = store.number || "Not Available";
+                dropdown.appendChild(option);
+            });
+
+            dropdown.addEventListener('change', (event) => {
+                const selectedOption = event.target.options[event.target.selectedIndex];
+                const website = selectedOption.value;
+                const address = selectedOption.dataset.address;
+                const number = selectedOption.dataset.number || "Not Available";
+
+                if (website) {
+                    window.open(website, '_blank');
+                } else if (event.target.selectedIndex !== 0) {
+                    alert(`Dealer: ${selectedOption.text}\nAddress: ${address}\nPhone: ${number}`);
+                }
+            });
+        }
+
+        function placeMarkers(stores) {
+            markers.forEach(marker => marker.setMap(null));
+            markers = [];
+
+            // Create bounds object to fit all markers
+            const bounds = new google.maps.LatLngBounds();
+
+            stores.forEach(store => {
+                const marker = new google.maps.Marker({
+                    position: { lat: store.lat, lng: store.lng },
+                    map: map,
+                    title: store.name
+                });
+
+                const infoWindow = new google.maps.InfoWindow({
+                    content: `<h3>${store.name}</h3>
+                        <p><strong>Address:</strong> ${store.Address}</p>
+                        <p><strong>Phone:</strong> ${store.number || "Not Available"}</p>
+                        ${store.website ? `<p><a href="${store.website}" target="_blank">Visit Website</a></p>` : ''}
+                        <p><strong>Distance:</strong> ${store.distance.toFixed(2)} miles</p>`
+                });
+
+                marker.addListener('click', () => {
+                    infoWindow.open(map, marker);
+                });
+
+                markers.push(marker);
+                
+                // Extend bounds to include this marker
+                bounds.extend(marker.getPosition());
+            });
+
+            // Auto-zoom and center to fit all markers
+            if (stores.length > 0) {
+                map.fitBounds(bounds);
+                
+                // Add padding around the bounds
+                const padding = { top: 50, right: 50, bottom: 50, left: 50 };
+                map.fitBounds(bounds, padding);
+                
+                // Optional: Set a maximum zoom level to avoid zooming in too close
+                google.maps.event.addListenerOnce(map, 'bounds_changed', function() {
+                    if (map.getZoom() > 15) {
+                        map.setZoom(15);
+                    }
+                });
+            }
+        }
+
+        function geocodeAddress(address) {
+            const geocoder = new google.maps.Geocoder();
+            geocoder.geocode({ address: address }, (results, status) => {
+                if (status === 'OK') {
+                    const userLocation = results[0].geometry.location;
+                    map.setCenter(userLocation);
+                    const nearestStores = findNearestStores({ lat: userLocation.lat(), lng: userLocation.lng() });
+                    placeMarkers(nearestStores);
+                    populateDropdown(nearestStores);
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+        }
+
+        document.getElementById('searchButton').addEventListener('click', () => {
+            const address = document.getElementById('addressInput').value;
+            if (address) {
+                geocodeAddress(address);
+            } else {
+                alert('Please enter an address.');
+            }
+        });
+
+        // Initialize on load
+        window.onload = async function() {
+            await loadDealerData();
+            initMap();
+        };
+    </script>
+</body>
+</html>

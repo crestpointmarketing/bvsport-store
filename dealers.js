@@ -1,0 +1,1666 @@
+[
+  {
+    "name": "231 Farm Center",
+    "Address": "171 Skipjack Road\nPrince Frederick, MD 20678",
+    "lat": 38.509966,
+    "lng": -76.640952,
+    "website": "",
+    "number": "(410) 535-7666"
+  },
+  {
+    "name": "5 and Dime",
+    "Address": "2411 Texoma Parkway\nSherman, TX 75091",
+    "lat": 33.66498,
+    "lng": -96.595873,
+    "website": "",
+    "number": "(903) 771-1552"
+  },
+  {
+    "name": "A to Z Trading Corporation",
+    "Address": "519 Seguin St\nSan Antonio, TX 78208",
+    "lat": 29.43838621,
+    "lng": -98.4540635,
+    "website": "",
+    "number": "(210) 900-0669"
+  },
+  {
+    "name": "A-1 Fun Cycle",
+    "Address": "5776 East Division St.\nMount Juliet, TN 37122",
+    "lat": 36.1900071,
+    "lng": -86.4232261,
+    "website": "",
+    "number": "(615) 889-6000"
+  },
+  {
+    "name": "Ace Auto & Motocycle",
+    "Address": "3060 Owen Drive\nFayetteville, NC 28306",
+    "lat": 35.019338,
+    "lng": -78.897105,
+    "website": "",
+    "number": "(803) 996-3028"
+  },
+  {
+    "name": "Ace Auto & Motocycle",
+    "Address": "4325 Augusta Rd\nLexington, SC 29073",
+    "lat": 33.97276,
+    "lng": -81.15248,
+    "website": "",
+    "number": "(803) 996-3028"
+  },
+  {
+    "name": "Action Sports",
+    "Address": "202 Holleman Dr. East\nCollege Station, TX 77840",
+    "lat": 30.61369342,
+    "lng": -96.31478066,
+    "website": "",
+    "number": "(979) 696-1248"
+  },
+  {
+    "name": "Adrenaline Motor Sports",
+    "Address": "2245 Austin Ave\nMcallen, TX 78501",
+    "lat": 26.204508,
+    "lng": -98.2451565,
+    "website": "",
+    "number": "(956) 618-5007"
+  },
+  {
+    "name": "Adventure Motors",
+    "Address": "5405 Skyland Blvd\nCottondale, AL 35453",
+    "lat": 33.18231013,
+    "lng": -87.4653155,
+    "website": "",
+    "number": "(205) 886-5555"
+  },
+  {
+    "name": "Affordable Auto",
+    "Address": "1307 N Virgina\nPort Lavaca, TX 77979",
+    "lat": 28.6244,
+    "lng": -96.635815,
+    "website": "",
+    "number": "(361) 482-2242"
+  },
+  {
+    "name": "Affordable Powersports",
+    "Address": "938 E Brinker Dr\nAvondale, AZ 85323",
+    "lat": 33.44068382,
+    "lng": -112.3382443,
+    "website": "",
+    "number": "(623) 399-3143"
+  },
+  {
+    "name": "Alabama Powersports",
+    "Address": "2925 Citizens Pkwy\nSelma, AL 36703",
+    "lat": 32.44441103,
+    "lng": -87.01779607,
+    "website": "www.alapowersports.com",
+    "number": "(334) 872-2132"
+  },
+  {
+    "name": "Aleks Powersports",
+    "Address": "1501 Peninsula Dr\nErie, PA 16505",
+    "lat": 42.09708401,
+    "lng": -80.14279499,
+    "website": "",
+    "number": "(814) 833-3861"
+  },
+  {
+    "name": "All Pro Powersports",
+    "Address": "3100 Leeman Ferry Rd\nHuntsville, AL 35801",
+    "lat": 34.69781817,
+    "lng": -86.59192735,
+    "website": "",
+    "number": "(256) 489-5477"
+  },
+  {
+    "name": "All Terrain Powersports",
+    "Address": "1210 Commercial Park Road\nMetropolis, IL 62960",
+    "lat": 37.15526699,
+    "lng": -88.71649698,
+    "website": "https://allterrainpowersportsmetro.com/contact/",
+    "number": "(270) 558-5171"
+  },
+  {
+    "name": "American Outdoor",
+    "Address": "524 N 1St St #59\nTimpson, TX 75975",
+    "lat": 31.90490483,
+    "lng": -94.40133105,
+    "website": "",
+    "number": "(936) 254-3936"
+  },
+  {
+    "name": "Amory Marine",
+    "Address": "1402 Highland Dr\nAmory, MS 38821",
+    "lat": 34.00072903,
+    "lng": -88.4872074,
+    "website": "www.amorymarinesales.com",
+    "number": "(662) 256-5656"
+  },
+  {
+    "name": "Arizona Discount ATV",
+    "Address": "13232 N. Cave Creek Rd\nPhoenix, AZ 85022",
+    "lat": 33.607392,
+    "lng": -112.036827,
+    "website": "",
+    "number": "(602) 971-0774"
+  },
+  {
+    "name": "Arlington Premium Powersports",
+    "Address": "711 106Th St\nArlington, TX 76011",
+    "lat": 32.7515704,
+    "lng": -97.059916,
+    "website": "",
+    "number": "(817) 715-0013"
+  },
+  {
+    "name": "Auto Energy Motorsports",
+    "Address": "11842 Us-19\nLebanon, VA 24266",
+    "lat": 36.91019477,
+    "lng": -82.02600462,
+    "website": "",
+    "number": "(276) 883-5279"
+  },
+  {
+    "name": "Auto Mart",
+    "Address": "804 West Bankhead St\nNew Albany, MS 38652",
+    "lat": 34.504413,
+    "lng": -89.02908259,
+    "website": "",
+    "number": "(662) 534-2258"
+  },
+  {
+    "name": "Avoyelles Outdoors",
+    "Address": "822 Tunica Dr West\nMarksville, LA 71351",
+    "lat": 31.131743,
+    "lng": -92.0810062,
+    "website": "",
+    "number": "(318) 253-8559"
+  },
+  {
+    "name": "Baltimore Motorsports",
+    "Address": "234 N Franklintown Rd\nBaltimore, MD 21223",
+    "lat": 39.2925535,
+    "lng": -76.6621522,
+    "website": "",
+    "number": "(410) 362-8887"
+  },
+  {
+    "name": "Bargers Allsport",
+    "Address": "3520 I-35 S\nWaco, TX 76706",
+    "lat": 31.51545439,
+    "lng": -97.13810347,
+    "website": "",
+    "number": "(254) 662-1717"
+  },
+  {
+    "name": "Baxley's Motorcycle & ATV",
+    "Address": "200 West Longhill Rd\nBenton, AR 72019",
+    "lat": 34.64305,
+    "lng": -92.658467,
+    "website": "",
+    "number": "(501) 794-5852"
+  },
+  {
+    "name": "BDX Performance",
+    "Address": "409 West 5Th Ave\nLawrenceville, VA 23868",
+    "lat": 36.7555641467448,
+    "lng": -77.8542102846557,
+    "website": "",
+    "number": "(434) 532-8147"
+  },
+  {
+    "name": "Berea Ace Hardware",
+    "Address": "292 Mini Mall Dr\nBerea, KY 40403",
+    "lat": 37.58901116,
+    "lng": -84.28541931,
+    "website": "",
+    "number": "(859) 985-0747"
+  },
+  {
+    "name": "Big #1 Motorsports",
+    "Address": "505 Cobb St\nBirmingham, AL 35209",
+    "lat": 33.46207313,
+    "lng": -86.82586559,
+    "website": "",
+    "number": "(205) 942-3313"
+  },
+  {
+    "name": "Big Blue Store Kinston",
+    "Address": "701 N Mclewean St\nKinston, NC 28501",
+    "lat": 35.26818386,
+    "lng": -77.57923034,
+    "website": "",
+    "number": "(252) 523-5863"
+  },
+  {
+    "name": "Big Blue Store of Clinton",
+    "Address": "149 Martin Luther King Blvd\nClinton, NC 28328",
+    "lat": 34.98851536,
+    "lng": -78.31459142,
+    "website": "ww3.truevalue.com/bigbluestore",
+    "number": "(910) 592-6707"
+  },
+  {
+    "name": "Big Blue Store of Elizabethtown",
+    "Address": "1700 Mercer Mill Rd\nElizabethtown, NC 28337",
+    "lat": 34.61839917,
+    "lng": -78.60356252,
+    "website": "",
+    "number": "(910) 645-2222"
+  },
+  {
+    "name": "Billings Powersports",
+    "Address": "1407 Central Ave\nBillings, MT 59102",
+    "lat": 45.76999392,
+    "lng": -108.5519937,
+    "website": "",
+    "number": "(406) 252-0902"
+  },
+  {
+    "name": "Birdys Scooters & ATVs",
+    "Address": "1715 W 53Rd St\nAnderson, IN 46013",
+    "lat": 40.0623693,
+    "lng": -85.6680925,
+    "website": "",
+    "number": "(765) 400-4130"
+  },
+  {
+    "name": "Blackbeard Powersports",
+    "Address": "36745 Groesbeck Hwy.\nClinton Twp, MI 48035",
+    "lat": 42.5676225,
+    "lng": -82.9141025,
+    "website": "",
+    "number": "(586) 792-2626"
+  },
+  {
+    "name": "Black's Outdoor & Marine",
+    "Address": "1423 Nw Evangeline Hwy\nLafayette, LA 70501",
+    "lat": 30.24319588,
+    "lng": -92.01355463,
+    "website": "",
+    "number": "(337) 233-4272"
+  },
+  {
+    "name": "Blackwell Automotive",
+    "Address": "107 Market Street\nHammond, LA 70401",
+    "lat": 30.50181925,
+    "lng": -90.48927388,
+    "website": "",
+    "number": "(985) 542-7702"
+  },
+  {
+    "name": "BMI Karts and Supplies",
+    "Address": "769 E Main St\nVersailles, OH 45380",
+    "lat": 40.2245623,
+    "lng": -84.4726914,
+    "website": "",
+    "number": "(937) 526-9544"
+  },
+  {
+    "name": "Bryant's Outdoor Equipment",
+    "Address": "2240 S Brannon Stand Rd\nDothan, AL 36305",
+    "lat": 31.20871535,
+    "lng": -85.48407574,
+    "website": "http://bryantsoutdooreq.com/",
+    "number": "(334) 794-4419"
+  },
+  {
+    "name": "Buffalo Mountain Motorsports",
+    "Address": "5587 Floyd Hwy\nWillis, VA 24380",
+    "lat": 36.85824001,
+    "lng": -80.480942,
+    "website": "",
+    "number": "(540) 789-7800"
+  },
+  {
+    "name": "Carlsbad Small Engine",
+    "Address": "2310 W Church St\nCarlsbad, NM 88220",
+    "lat": 32.42889456,
+    "lng": -104.2556455,
+    "website": "",
+    "number": "(575) 616-2348"
+  },
+  {
+    "name": "Carolina Fun Machines, Inc.",
+    "Address": "12056 Stallings Commerce Drive\nMatthews, NC 28105",
+    "lat": 35.1002321838621,
+    "lng": -80.6771683893697,
+    "website": "",
+    "number": "(704) 882-3308"
+  },
+  {
+    "name": "Cason Outdoor Power Equipment",
+    "Address": "5114 Hwy 45 North\nWaynesboro, MS 39367",
+    "lat": 31.74893775,
+    "lng": -88.65657746,
+    "website": "",
+    "number": "(601) 735-3520"
+  },
+  {
+    "name": "CCC Powersports",
+    "Address": "3000 Touchton Rd Suite A\nValdosta, GA 31601",
+    "lat": 30.74893544,
+    "lng": -83.26778153,
+    "website": "",
+    "number": "(229) 300-3886"
+  },
+  {
+    "name": "Cenla Powersports",
+    "Address": "231 Main St\nPineville, LA 71360",
+    "lat": 31.3160716,
+    "lng": -92.44025853,
+    "website": "",
+    "number": "(318) 528-8760"
+  },
+  {
+    "name": "Central Kentucky Motorsports",
+    "Address": "1050 E New Circle Rd\nLexington, KY 40505",
+    "lat": 38.03713235,
+    "lng": -84.45448489,
+    "website": "www.centralkymotorsports.com",
+    "number": "(859) 368-9462"
+  },
+  {
+    "name": "Chandler Powersports",
+    "Address": "407 S. Arizona Avenue Unit C\nChandler, AZ 85225",
+    "lat": 33.2966995576283,
+    "lng": -111.841129616406,
+    "website": "",
+    "number": "(480) 626-1003"
+  },
+  {
+    "name": "Chase Motorsports",
+    "Address": "1212 Brown St.\nPaducah, KY 42003",
+    "lat": 37.0651803,
+    "lng": -88.5978425,
+    "website": "",
+    "number": "(270) 442-4273"
+  },
+  {
+    "name": "City Scooter",
+    "Address": "501 Greenville Drive\nWilliamston, SC 29697",
+    "lat": 34.6262261,
+    "lng": -82.4709961,
+    "website": "",
+    "number": "(864) 847-7222"
+  },
+  {
+    "name": "Cobb Motor Company",
+    "Address": "1430 N Mingo Rd\nTulsa, OK 74116",
+    "lat": 36.17630802,
+    "lng": -95.86932598,
+    "website": "",
+    "number": "(918) 605-1372"
+  },
+  {
+    "name": "Commercial Power Equipment",
+    "Address": "750 Bert Kauns Industral Loops\nSheveport, LA 71178",
+    "lat": 32.40159551,
+    "lng": -93.77796328,
+    "website": "",
+    "number": "(318) 425-0222"
+  },
+  {
+    "name": "Corgills Motorsports",
+    "Address": "3010 North Broadway\nPoteau, OK 74953",
+    "lat": 35.0896467,
+    "lng": -94.6302954,
+    "website": "",
+    "number": "(918) 647-2662"
+  },
+  {
+    "name": "Country ATV & Cycle",
+    "Address": "10900 Blackwell Rd\nCentral Point, OR 97502",
+    "lat": 42.42097705,
+    "lng": -123.0180486,
+    "website": "",
+    "number": "(541) 855-1751"
+  },
+  {
+    "name": "Cribbs Customs LLC",
+    "Address": "2007 Alaska St\nSavannah, GA 31404",
+    "lat": 32.05529953,
+    "lng": -81.05847064,
+    "website": "www.cribbscustoms.com",
+    "number": "(912) 507-1116"
+  },
+  {
+    "name": "Custom Scooters",
+    "Address": "912 East 15Th St.\nPlano, TX 75074",
+    "lat": 33.0196605,
+    "lng": -96.7025205,
+    "website": "",
+    "number": "(972) 509-1553"
+  },
+  {
+    "name": "Cycle Plus Belize",
+    "Address": "Route 20 East\nSpanish Lookout, BELIZE",
+    "lat": 17.2412761,
+    "lng": -89.0028773,
+    "website": "",
+    "number": "(501) 671-8500"
+  },
+  {
+    "name": "Cycles and More",
+    "Address": "601 W Dewitt Henry Dr\nBeebe, AR 72012",
+    "lat": 35.07950925,
+    "lng": -91.88998116,
+    "website": "",
+    "number": "(501) 882-9599"
+  },
+  {
+    "name": "Dallas Mower",
+    "Address": "261 Merchants Dr\nDallas, GA 30132",
+    "lat": 33.9228639,
+    "lng": -84.8340135,
+    "website": "",
+    "number": "(770) 443-0608"
+  },
+  {
+    "name": "Dan's Hardware & Supply, Inc",
+    "Address": "3945 Hwy 80 West\nPhenix City, AL 36870",
+    "lat": 32.47031592,
+    "lng": -85.0973974,
+    "website": "",
+    "number": "(334) 297-0560"
+  },
+  {
+    "name": "Dan's Service Center",
+    "Address": "604 S Broadway St\nEllsworth, MN 56129",
+    "lat": 43.51512701,
+    "lng": -96.01790997,
+    "website": "",
+    "number": "(507) 967-2445"
+  },
+  {
+    "name": "Daves Go-Kart Sales",
+    "Address": "4671 Mahoning Ave Nw\nWarren, OH 44483",
+    "lat": 41.2848893,
+    "lng": -80.8489196,
+    "website": "",
+    "number": "(330) 646-2425"
+  },
+  {
+    "name": "DB Trailer Sales",
+    "Address": "600 E Norfolk Ave Suite A\nNorfolk, NE 68701",
+    "lat": 42.0325837125144,
+    "lng": -97.3985342153423,
+    "website": "",
+    "number": "(402) 640-2514"
+  },
+  {
+    "name": "Del Rio Home & Auto",
+    "Address": "600 Veterans\nDel Rio, TX 78840",
+    "lat": 29.36974128,
+    "lng": -100.8997815,
+    "website": "",
+    "number": "(830) 774-1490"
+  },
+  {
+    "name": "DFW Scooters and ATVs",
+    "Address": "2618 Aero Dr\nGrand Prairie, TX 75052",
+    "lat": 32.7045401,
+    "lng": -97.0545269,
+    "website": "",
+    "number": "(469) 471-8915"
+  },
+  {
+    "name": "East Central Sports",
+    "Address": "4840 Rush Lake Rd\nRush City, MN 55069",
+    "lat": 45.68501613,
+    "lng": -93.01136179,
+    "website": "",
+    "number": "(651) 674-8166"
+  },
+  {
+    "name": "Elberta Hardware",
+    "Address": "25320 Us Hwy 98 East\nElberta, AL 36530",
+    "lat": 30.4140006,
+    "lng": -87.5929385,
+    "website": "",
+    "number": "(251) 986-5233"
+  },
+  {
+    "name": "Etown Powersports",
+    "Address": "2500 S Dixie Hwy\nElizabethtown, KY 42701",
+    "lat": 37.6599089,
+    "lng": -85.84846452,
+    "website": "https://www.etownpowersports.com/",
+    "number": "(270) 769-7726"
+  },
+  {
+    "name": "Express Power Sports",
+    "Address": "1858 N. State Route 50\nBourbonnais, IL 60914",
+    "lat": 41.18160598,
+    "lng": -87.85163358,
+    "website": "www.expresspowersport.com",
+    "number": "(815) 933-3474"
+  },
+  {
+    "name": "Extreme Motor Sales",
+    "Address": "2327 E Semoran Blvd\nApopka, FL 32703",
+    "lat": 28.6735682,
+    "lng": -81.4671828,
+    "website": "",
+    "number": "(321) 207-0880"
+  },
+  {
+    "name": "Family Farm & Home",
+    "Address": "900 Third St, Suite 302\nMuskogen, MI 49440",
+    "lat": 43.23609563,
+    "lng": -86.25400562,
+    "website": "www.familyfarmandhome.com",
+    "number": "(231) 722-8335"
+  },
+  {
+    "name": "Family Go Karts",
+    "Address": "316 W. Broadway\nBrowns Valley, MN 56219",
+    "lat": 45.5956536713424,
+    "lng": -96.833249602518,
+    "website": "",
+    "number": "(800) 950-2210"
+  },
+  {
+    "name": "Family Outdoors",
+    "Address": "4019 N Oak Trafficway\nKansas City, MO 64116",
+    "lat": 39.16776098,
+    "lng": -94.57634701,
+    "website": "",
+    "number": "(816) 366-7300"
+  },
+  {
+    "name": "Family Powersports - Austin",
+    "Address": "19818 W Hwy 71\nSpicewood, TX 78669",
+    "lat": 30.3451629,
+    "lng": -98.04666905,
+    "website": "",
+    "number": "(512) 729-0770"
+  },
+  {
+    "name": "Family Powersports - Lubbock",
+    "Address": "4202 W Loop 289\nLubbock, TX 79407",
+    "lat": 33.5567129,
+    "lng": -101.9444556,
+    "website": "",
+    "number": "(806) 793-2551"
+  },
+  {
+    "name": "Family Powersports - Odessa",
+    "Address": "4306 Noth Andrews\nOdessa, TX 79762",
+    "lat": 31.884561,
+    "lng": -102.3848282,
+    "website": "",
+    "number": "(432) 368-7907"
+  },
+  {
+    "name": "Family Powersports - San Angelo",
+    "Address": "4160 Houston Harte Expressway\nSan Angelo, TX 76901",
+    "lat": 31.44435894,
+    "lng": -100.4970544,
+    "website": "",
+    "number": "(325) 947-2453"
+  },
+  {
+    "name": "Farm City",
+    "Address": "1220 Us Hwy 17 S\nElizabeth City, NC 27909",
+    "lat": 36.27677196,
+    "lng": -76.2843312,
+    "website": "",
+    "number": "(252) 334-1552"
+  },
+  {
+    "name": "Fenton Powersports",
+    "Address": "1324 West Lark Industrial Park\nFenton, MO 63026",
+    "lat": 38.494636,
+    "lng": -90.4953986,
+    "website": "",
+    "number": "(636) 533-0486"
+  },
+  {
+    "name": "Ferrell's Home & Outdoor, Inc.",
+    "Address": "807 South Parkway\nCorinth, MS 38834",
+    "lat": 34.91944192,
+    "lng": -88.50578748,
+    "website": "http://www.ferrells.com/",
+    "number": "(662) 287-2165"
+  },
+  {
+    "name": "Freedom Cycles",
+    "Address": "12501 South Us Highway 71\nGrandview, MO 64030",
+    "lat": 38.89751533,
+    "lng": -94.52410729,
+    "website": "www.freedomcyclesinc.com",
+    "number": "(816) 761-2220"
+  },
+  {
+    "name": "Full Armor Cycle",
+    "Address": "9240 Cherry Valley Ave Se\nCaledonia, MI 49316",
+    "lat": 42.79688299,
+    "lng": -85.50652202,
+    "website": "www.fullarmorpower.com",
+    "number": "(616) 536-2063"
+  },
+  {
+    "name": "FUNATV LLC",
+    "Address": "3748 Hwy 45 N Ste 1\nColumbus, MS 39705",
+    "lat": 33.54759952,
+    "lng": -88.43326191,
+    "website": "",
+    "number": "(888) 428-2924"
+  },
+  {
+    "name": "Gemini Auto",
+    "Address": "4990 George Washington Memorial Hwy\nHayes, VA 23072",
+    "lat": 37.3416555,
+    "lng": -76.52069593,
+    "website": "",
+    "number": "(804) 993-7088"
+  },
+  {
+    "name": "GoPowerSports.com",
+    "Address": "1375 S Main St\nKeller, TX 76248",
+    "lat": 32.90991632,
+    "lng": -97.25620942,
+    "website": "",
+    "number": "(817) 482-1600"
+  },
+  {
+    "name": "Goudy Powersports and Trailers LLC",
+    "Address": "2045 Us-380 B100\nDecatur, TX 76234",
+    "lat": 33.2425381633592,
+    "lng": -97.5262900605858,
+    "website": "",
+    "number": "(469) 515-4664"
+  },
+  {
+    "name": "Great Sports Inc.",
+    "Address": "9525 W Laraway Rd.\nFrankfort, IL 60423",
+    "lat": 41.483804,
+    "lng": -87.8463625,
+    "website": "",
+    "number": "(708) 669-1237"
+  },
+  {
+    "name": "Great Wheels",
+    "Address": "1985 Windfield Dunn Parkway\nSevierville, TN 37876",
+    "lat": 35.9236908425389,
+    "lng": -83.5808567893458,
+    "website": "",
+    "number": "(865) 428-0055"
+  },
+  {
+    "name": "Green Thumb Outdoors",
+    "Address": "71 Hwy 19N Ste 2\nMeridian, MS 39345",
+    "lat": 32.35158244,
+    "lng": -88.73383091,
+    "website": "lmgdiversified@gmail.com",
+    "number": "(601) 938-5467"
+  },
+  {
+    "name": "Green Thumb Outdoors",
+    "Address": "9767 East Side Drive Extension\nNewton, MS 39345",
+    "lat": 32.35293492,
+    "lng": -89.13124147,
+    "website": "",
+    "number": "(601) 938-5467"
+  },
+  {
+    "name": "Greywolf Auto",
+    "Address": "305 W Broadway\nLincoln, ME 4457",
+    "lat": 45.35509549,
+    "lng": -68.53139372,
+    "website": "",
+    "number": "(207) 403-4330"
+  },
+  {
+    "name": "Hailey’s Outdoor",
+    "Address": "55 Hicks Rd\nLynchburg, VA 24502",
+    "lat": 37.30635994,
+    "lng": -79.27240944,
+    "website": "",
+    "number": "(434) 363-6936"
+  },
+  {
+    "name": "Harlow Lawn Mower Service",
+    "Address": "1626 Hodges St\nLake Charles, LA 70601",
+    "lat": 30.21840964,
+    "lng": -93.21610332,
+    "website": "",
+    "number": "(337) 436-7266"
+  },
+  {
+    "name": "Harrison PowerSports",
+    "Address": "5720 N Clare Ave\nHarrison, MI 48625",
+    "lat": 44.07034751,
+    "lng": -84.79147761,
+    "website": "",
+    "number": "(989) 539-3745"
+  },
+  {
+    "name": "Hattiesburg Cycles",
+    "Address": "6412 Us Hwy 49\nHattiesburg, MS 39401",
+    "lat": 31.34452626,
+    "lng": -89.3298974,
+    "website": "http://www.hattiesburgcycles.com/",
+    "number": "(601) 582-8611"
+  },
+  {
+    "name": "Haynes Home Center",
+    "Address": "4 Davis Dr\nMorrilton, AR 72110",
+    "lat": 35.16721288,
+    "lng": -92.72300319,
+    "website": "",
+    "number": "(501) 354-1239"
+  },
+  {
+    "name": "Hedgepath's Outdoor Power Equip",
+    "Address": "655 Wilson Rd\nNewberry, SC 29108",
+    "lat": 34.27380887,
+    "lng": -81.5911845,
+    "website": "",
+    "number": "(803) 276-2148"
+  },
+  {
+    "name": "Heinold & Feller Tire & Lawn Equipment",
+    "Address": "1707 E Lincolnway\nValparaiso, IN 46383",
+    "lat": 41.46746688,
+    "lng": -87.03956205,
+    "website": "",
+    "number": "(219) 462-5191"
+  },
+  {
+    "name": "Hobby Bikes",
+    "Address": "15 Stanwix St\nBrooklyn, NY 11231",
+    "lat": 40.69891178,
+    "lng": -73.93402392,
+    "website": "",
+    "number": "(347) 610-9838"
+  },
+  {
+    "name": "Home Town ATV (Conway)",
+    "Address": "1265 Harkrider Street\nConway, AR 72032",
+    "lat": 35.0967546,
+    "lng": -92.4378573,
+    "website": "",
+    "number": "(501) 730-3584"
+  },
+  {
+    "name": "Home Town ATV (Greenbrier)",
+    "Address": "135 South Broadview\nGreenbrier, AR 72058",
+    "lat": 35.217745,
+    "lng": -92.3886069,
+    "website": "",
+    "number": "(501) 679-6676"
+  },
+  {
+    "name": "House of Wheels",
+    "Address": "405 Belle Plain St\nBrownwood, TX 76801",
+    "lat": 31.72489965,
+    "lng": -98.98201761,
+    "website": "",
+    "number": "(325) 643-5555"
+  },
+  {
+    "name": "Howard's Outdoor Power Equip",
+    "Address": "3970 E 9 Mile Rd \nWarren, MI 48091",
+    "lat": 42.46219753,
+    "lng": -83.06617186,
+    "website": "www.howardsoutdoorpower.com",
+    "number": "(586) 756-8040"
+  },
+  {
+    "name": "James Lawnmower Sales & Service",
+    "Address": "5034 Rigsby Ave\nSan Antonio, TX 78222",
+    "lat": 29.39823453,
+    "lng": -98.392554,
+    "website": "",
+    "number": "(210) 648-0182"
+  },
+  {
+    "name": "Jersey Powersports LLC",
+    "Address": "1509 Nj-179\nLambertville, NJ 8530",
+    "lat": 40.3766317,
+    "lng": -74.9352593,
+    "website": "",
+    "number": "(908) 858-5222"
+  },
+  {
+    "name": "JL Supreme Motor - Greensboro",
+    "Address": "3407 W Gate City Blvd\nGreensboro, NC 27407",
+    "lat": 36.039320596556,
+    "lng": -79.8467303153423,
+    "website": "",
+    "number": "(917) 545-6866"
+  },
+  {
+    "name": "Johnson Used Cars and Motorsports",
+    "Address": "2436 Us-80 W\nDublin, GA 31021",
+    "lat": 32.55004814,
+    "lng": -82.97547224,
+    "website": "",
+    "number": "(478) 296-9154"
+  },
+  {
+    "name": "JR's Lawnmower Shop",
+    "Address": "1006 West Cummings Ave\nOpp, AL 36467",
+    "lat": 31.27869547,
+    "lng": -86.26879645,
+    "website": "www.jrsmowers.com",
+    "number": "(334) 493-9645"
+  },
+  {
+    "name": "K & T Saw Shop",
+    "Address": "1199 N Hwy 1247\nSomerset, KY 42503",
+    "lat": 37.10708593,
+    "lng": -84.61461787,
+    "website": "www.ktoutdoor.com",
+    "number": "(606) 678-9623"
+  },
+  {
+    "name": "Karts Are Us",
+    "Address": "2612 S 11Th St\nNiles, MI 49120",
+    "lat": 41.7766137,
+    "lng": -86.25070688,
+    "website": "www.kartsareus.com",
+    "number": "(269) 684-5009"
+  },
+  {
+    "name": "Kawasaki of Rome",
+    "Address": "2853 Alabama Hwy\nRome, GA 30165",
+    "lat": 34.26985102,
+    "lng": -85.25593303,
+    "website": "",
+    "number": "(706) 235-3454"
+  },
+  {
+    "name": "Kingston's Karts, LLC",
+    "Address": "2008 Dover Rd\nEpsom, NH 3234",
+    "lat": 43.2310083982044,
+    "lng": -71.3698285846576,
+    "website": "",
+    "number": "(603) 736-8997"
+  },
+  {
+    "name": "LA Motor Toys",
+    "Address": "4111 Us Highway 80E Suite 102\nMesquite, TX 75150",
+    "lat": 32.79601258,
+    "lng": -96.66161172,
+    "website": "",
+    "number": "(469) 778-1600"
+  },
+  {
+    "name": "Lakeside Auto & Sports",
+    "Address": "122 S Main St\nGarrison, ND 58540",
+    "lat": 47.65027352,
+    "lng": -101.4173562,
+    "website": "",
+    "number": "(701) 463-2440"
+  },
+  {
+    "name": "Lawrence Motorsports",
+    "Address": "541 Green Blvd\nAurora, IN 47001",
+    "lat": 39.0667339,
+    "lng": -84.89446044,
+    "website": "",
+    "number": "(812) 539-1880"
+  },
+  {
+    "name": "Lee Motorsports",
+    "Address": "2717 Gum Rd\nSeneca, MO 64865",
+    "lat": 36.95407064,
+    "lng": -94.59371306,
+    "website": "",
+    "number": "(417) 461-4289"
+  },
+  {
+    "name": "Lone Star Powersports - Abilene",
+    "Address": "2565 S Danville\nAbilene, TX 79605",
+    "lat": 32.41746841,
+    "lng": -99.77883891,
+    "website": "",
+    "number": "(325) 704-3336"
+  },
+  {
+    "name": "Lone Star Powersports - Amarillo",
+    "Address": "4421 Bell Street\nAmarillo, TX 79109",
+    "lat": 35.1622804,
+    "lng": -101.9038855,
+    "website": "",
+    "number": "(806) 389-2626"
+  },
+  {
+    "name": "Louis' Yazoo Sales & Service, LLC",
+    "Address": "5700 College St.\nBeaumont, TX 77705",
+    "lat": 30.06786748,
+    "lng": -94.15777364,
+    "website": "www.louis-yazoo.com",
+    "number": "(409) 866-6300"
+  },
+  {
+    "name": "Luca Motorsports - Decatur",
+    "Address": "804 Beltline Rd Sw\nDecatur, AL 35601",
+    "lat": 34.56074249,
+    "lng": -86.99866146,
+    "website": "",
+    "number": "(256) 822-2232"
+  },
+  {
+    "name": "Luca Motorsports - Florence",
+    "Address": "3016 Florence Blvd\nFlorence, AL 35634",
+    "lat": 34.83203021,
+    "lng": -87.61787428,
+    "website": "",
+    "number": "(256) 275-3082"
+  },
+  {
+    "name": "Main Street Cycles",
+    "Address": "1295 Main St\nTishomingo, MS 38873",
+    "lat": 34.636563,
+    "lng": -88.2321174,
+    "website": "www.mainstreetcycle.com",
+    "number": "(662) 438-6407"
+  },
+  {
+    "name": "Mart of Dallas",
+    "Address": "3523 E Belknap St\nFort Worth, TX 76111",
+    "lat": 32.77727623869,
+    "lng": -97.2964708897924,
+    "website": "",
+    "number": ""
+  },
+  {
+    "name": "McDonald's Motorcycle Repair",
+    "Address": "40 Strong Branch Rd\nLiberty, KY 42539",
+    "lat": 37.25691329,
+    "lng": -84.88276693,
+    "website": "",
+    "number": "(606) 787-7560"
+  },
+  {
+    "name": "Metro Turf",
+    "Address": "5500 Huettner\nNorman, OK 73069",
+    "lat": 35.28533727,
+    "lng": -97.4842721,
+    "website": "",
+    "number": "(405) 360-5045"
+  },
+  {
+    "name": "Mid Ohio Motorsports",
+    "Address": "7435 State Route 309\nGalion, OH 44833",
+    "lat": 40.73869379,
+    "lng": -82.76313106,
+    "website": "www.mysupershops.com",
+    "number": "(419) 468-2274"
+  },
+  {
+    "name": "Miniboys Minibikes",
+    "Address": "2753 North Palm Canyon\nPalm Spring, CA 92262",
+    "lat": 33.8557032,
+    "lng": -116.5550241,
+    "website": "",
+    "number": "(760) 449-4759"
+  },
+  {
+    "name": "Mopeds and More",
+    "Address": "6191 S Pine Ave Suite B\nOcala, FL 34480",
+    "lat": 29.12522572,
+    "lng": -82.10181641,
+    "website": "",
+    "number": "(352) 629-9001"
+  },
+  {
+    "name": "MopedU Powersports",
+    "Address": "400 N College Ave\nFayetteville, AR 72701",
+    "lat": 36.0687599,
+    "lng": -94.15734925,
+    "website": "",
+    "number": "(479) 856-6313"
+  },
+  {
+    "name": "Moto El Paso",
+    "Address": "3750 Gateway Blvd\nEl Paso, TX 79905",
+    "lat": 31.77737978,
+    "lng": -106.4485646,
+    "website": "",
+    "number": "(915) 566-6666"
+  },
+  {
+    "name": "Motobuy",
+    "Address": "3414 Herrman Dr, Suite 120\nGarland, TX 75041",
+    "lat": 32.8927843535553,
+    "lng": -96.6810649317596,
+    "website": "",
+    "number": "(877) 667-6289"
+  },
+  {
+    "name": "MSA Powersports",
+    "Address": "1290 W Pioneer Pkwy\nGrand Prairie, TX 75051",
+    "lat": 32.7109269611823,
+    "lng": -97.0236982763123,
+    "website": "",
+    "number": "(469) 471-8915"
+  },
+  {
+    "name": "Munro Motor Co",
+    "Address": "504 Main Ave E\nRolla, ND 58367",
+    "lat": 48.86156301,
+    "lng": -99.60827297,
+    "website": "",
+    "number": "(701) 477-3124"
+  },
+  {
+    "name": "My Scooters and ATVs",
+    "Address": "3201 E. Pioneer Pkwy\nArlington, TX 76010",
+    "lat": 32.712908,
+    "lng": -97.050257,
+    "website": "",
+    "number": "(817) 649-7823"
+  },
+  {
+    "name": "Natchitoches PowerSports",
+    "Address": "367 South Dr\nNatchitoches, LA 71457",
+    "lat": 31.74089406,
+    "lng": -93.08187075,
+    "website": "",
+    "number": "(318) 352-8174"
+  },
+  {
+    "name": "Normans Glass & Auto",
+    "Address": "390 Whitehead Road\nTrenton, NJ 8619",
+    "lat": 40.24332801,
+    "lng": -74.72622702,
+    "website": "",
+    "number": "(609) 895-2626"
+  },
+  {
+    "name": "Nuggets Powersports LLC",
+    "Address": "2240 Township Rd 108\nHuntsville, OH 43324",
+    "lat": 40.45977599,
+    "lng": -83.76391798,
+    "website": "",
+    "number": ""
+  },
+  {
+    "name": "Nuggets Powersports LLC.",
+    "Address": "5001 York Ave\nGastonia, NC 28052",
+    "lat": 35.18450105,
+    "lng": -81.20526215,
+    "website": "",
+    "number": "(070) 483-0813"
+  },
+  {
+    "name": "Orange Powersports",
+    "Address": "3500 Ih-10 West\nOrange, TX 77632",
+    "lat": 30.12246977,
+    "lng": -93.77402383,
+    "website": "",
+    "number": "(409) 886-1995"
+  },
+  {
+    "name": "Outdoor Power",
+    "Address": "2380 Us Hwy 61 S\nWoodville, MS 39669",
+    "lat": 31.07610402,
+    "lng": -91.31011102,
+    "website": "http://www.msoutdoorpower.com/",
+    "number": "(601) 888-3636"
+  },
+  {
+    "name": "Outlaw Powersports",
+    "Address": "202 W 1St Street\nVidalia, GA 30474",
+    "lat": 32.21780002,
+    "lng": -82.41571802,
+    "website": "https://outlawpowersports.net/",
+    "number": "(912) 426-1678"
+  },
+  {
+    "name": "Phantom Powersports",
+    "Address": "908 W Jericho Turnpike\nSmithtown, NY 11787",
+    "lat": 40.84768264,
+    "lng": -73.24258565,
+    "website": "",
+    "number": "(631) 423-5300"
+  },
+  {
+    "name": "Power & Play Motorsports",
+    "Address": "550 N Flagler Ave.\nPompano Beach, FL 33060",
+    "lat": 26.23665519,
+    "lng": -80.12410363,
+    "website": "https://powerandplaywarehouse.net/",
+    "number": "(954) 942-5959"
+  },
+  {
+    "name": "Powersports Service Center",
+    "Address": "2000 Oak Mountain Dr\nPelham, AL 35124",
+    "lat": 33.32639527,
+    "lng": -86.79269597,
+    "website": "",
+    "number": "(205) 624-2000"
+  },
+  {
+    "name": "Prattville Outdoors",
+    "Address": "118 Hwy 82 Bypass W\nPrattville, AL 36067",
+    "lat": 32.43896787,
+    "lng": -86.47450797,
+    "website": "www.prattvilleoutdoors.com",
+    "number": "(334) 358-5400"
+  },
+  {
+    "name": "Preferred Equipment LLC",
+    "Address": "3111 N. Jackson St.\nJacksonville, TX 75766",
+    "lat": 32.00261179,
+    "lng": -95.27710845,
+    "website": "",
+    "number": "(903) 541-9229"
+  },
+  {
+    "name": "Pro Max",
+    "Address": "123 Hwy 199 East\nSpringtown, TX 76082",
+    "lat": 32.9632954,
+    "lng": -97.68151703,
+    "website": "",
+    "number": "(817) 220-2453"
+  },
+  {
+    "name": "Pure Energy Motorsports",
+    "Address": "704 South Timberland Dr\nLufkin, TX 75901",
+    "lat": 31.33131061,
+    "lng": -94.72372576,
+    "website": "",
+    "number": "(936) 699-3526"
+  },
+  {
+    "name": "Quad Doctor",
+    "Address": "4328 78Th Ave W\nRock Island, IL 61201",
+    "lat": 41.44346999,
+    "lng": -90.62898996,
+    "website": "",
+    "number": "(309) 787-2882"
+  },
+  {
+    "name": "Recreation & Performance Motorsports",
+    "Address": "1370 Al-69\nHanceville, AL 35057",
+    "lat": 34.04165105,
+    "lng": -86.8839331,
+    "website": "",
+    "number": "(256) 739-1840"
+  },
+  {
+    "name": "Red Line Tool",
+    "Address": "1624 S Seneca\nWichita, KS 67213",
+    "lat": 37.6656288,
+    "lng": -97.3526256,
+    "website": "",
+    "number": "(316) 264-7333"
+  },
+  {
+    "name": "Reeds Outdoor",
+    "Address": "8623 Col Gleen Rd\nLittle Rock, AR 72204",
+    "lat": 34.7098602,
+    "lng": -92.3720643,
+    "website": "",
+    "number": "(501) 565-6393"
+  },
+  {
+    "name": "Rev it Up Motor",
+    "Address": "3414 Sheppard Access Rd\nWichita Falls, TX 76306",
+    "lat": 33.89301681,
+    "lng": -98.4836034,
+    "website": "",
+    "number": "(940) 247-5106"
+  },
+  {
+    "name": "Rock Hill Powersports",
+    "Address": "808 Riverview Rd\nRock Hill, SC 29730",
+    "lat": 34.96844593,
+    "lng": -80.98547205,
+    "website": "",
+    "number": "(803) 526-7274"
+  },
+  {
+    "name": "Rogers Marine",
+    "Address": "1221 Magnolia St\nTexarkana, TX 75501",
+    "lat": 33.43356702,
+    "lng": -94.0433689,
+    "website": "",
+    "number": "(903) 792-8253"
+  },
+  {
+    "name": "Ryker Powersports",
+    "Address": "13927 S Plaza\nOmaha, NE 68137",
+    "lat": 40.8561156,
+    "lng": -96.6814878,
+    "website": "",
+    "number": "(402) 502-4186"
+  },
+  {
+    "name": "S & S Motorsports, LLC",
+    "Address": "56731 Colerain Pike\nMartins Ferry, OH 43935",
+    "lat": 40.1156227,
+    "lng": -80.794862,
+    "website": "",
+    "number": "(740) 738-0357"
+  },
+  {
+    "name": "S & W Powersports",
+    "Address": "1200 Hwy 78\nJasper, AL 35502",
+    "lat": 33.55919784,
+    "lng": -86.89121472,
+    "website": "www.sandwpower.com",
+    "number": "(205) 483-1000"
+  },
+  {
+    "name": "S&S Fleet Services",
+    "Address": "1806 M65\nHale, MI 48739",
+    "lat": 44.3293383149881,
+    "lng": -83.8031221025641,
+    "website": "",
+    "number": "(989) 685-5665"
+  },
+  {
+    "name": "Safford Equipment & Safford Trading Company",
+    "Address": "22445 Al-22\nSafford, AL 36773",
+    "lat": 32.28850988,
+    "lng": -87.36958065,
+    "website": "",
+    "number": "(877) 872-2417"
+  },
+  {
+    "name": "Sale Creek Outdoor Power Equipment & Service",
+    "Address": "14711 Dayton Pike\nSale Creek, TN 37373",
+    "lat": 35.37335514,
+    "lng": -85.11429505,
+    "website": "",
+    "number": "(423) 332-3452"
+  },
+  {
+    "name": "Salina Powersports",
+    "Address": "632 South Broadway\nSalina, KS 67401",
+    "lat": 38.82897886,
+    "lng": -97.62505825,
+    "website": "www.salinapowersports.com",
+    "number": "(785) 823-7297"
+  },
+  {
+    "name": "Salinas Motorcycle Center",
+    "Address": "1286 N. Main Street\nSalinas, CA 93912",
+    "lat": 36.70105561,
+    "lng": -121.6521292,
+    "website": "www.salinasmc.com",
+    "number": "(831) 442-3511"
+  },
+  {
+    "name": "San Marcos Powersports",
+    "Address": "4528 S Ih 35\nSan Marcos, TX 78666",
+    "lat": 29.8209305,
+    "lng": -97.9962865,
+    "website": "",
+    "number": "(512) 805-0020"
+  },
+  {
+    "name": "Santana's Powersports Dover",
+    "Address": "13295 Us-92\nDover, FL 33527",
+    "lat": 28.01917601,
+    "lng": -82.22849203,
+    "website": "",
+    "number": "(813) 704-5568"
+  },
+  {
+    "name": "Santana's Powersports Tampa",
+    "Address": "7941 N Armenia Ave\nTampa, FL 33604",
+    "lat": 28.02147601,
+    "lng": -82.48389399,
+    "website": "",
+    "number": "(813) 658-3530"
+  },
+  {
+    "name": "Saraland Lawn & Garden",
+    "Address": "27 Harris Ave\nSaraland, AL 36571",
+    "lat": 30.8230456,
+    "lng": -88.0723039,
+    "website": "",
+    "number": "(251) 675-1494"
+  },
+  {
+    "name": "Scooters Lawn & Leisure Repair",
+    "Address": "418 Main St\nRossville, KS 66533",
+    "lat": 39.138161,
+    "lng": -95.95195596,
+    "website": "",
+    "number": "(785) 319-9194"
+  },
+  {
+    "name": "Scooters Plus",
+    "Address": "3425 Summer Ave\nMemphis, TN 38122",
+    "lat": 35.14936031,
+    "lng": -89.94648937,
+    "website": "www.scootersplus.us",
+    "number": "(901) 458-8843"
+  },
+  {
+    "name": "Scoots and Skates",
+    "Address": "616 Mo-72\nJackson, MO 63755",
+    "lat": 37.37930727,
+    "lng": -89.67538739,
+    "website": "",
+    "number": "(573) 275-1183"
+  },
+  {
+    "name": "Shannon Marine Service",
+    "Address": "13 S. Shannon Rte\nShannon, IL 61078",
+    "lat": 42.15436788,
+    "lng": -89.74562365,
+    "website": "http://shannonmarine.com/",
+    "number": "(815) 864-2565"
+  },
+  {
+    "name": "Sky Powersports of Lakeland",
+    "Address": "1638 Kathleen Rd\nLakeland, FL 33805",
+    "lat": 28.06625297,
+    "lng": -81.98004857,
+    "website": "",
+    "number": "(863) 682-4607"
+  },
+  {
+    "name": "Solano Cycle of Gainesville",
+    "Address": "1024 South Main Street\nGainesville, FL 32601",
+    "lat": 29.64151022,
+    "lng": -82.32584405,
+    "website": "www.solanocycle.com",
+    "number": "(352) 338-8450"
+  },
+  {
+    "name": "Solano Cycle of Jacksonville Beach",
+    "Address": "815 Beach Blvd. Unit 3\nJacksonville Beach, FL 32250",
+    "lat": 30.28827952,
+    "lng": -81.39804203,
+    "website": "www.solanocycle.com",
+    "number": "(904) 240-4754"
+  },
+  {
+    "name": "Solano Cycle of Orange Park",
+    "Address": "565 Blanding Blvd\nOrange Park, FL 32073",
+    "lat": 30.15315476,
+    "lng": -81.74898928,
+    "website": "www.solanocycle.com",
+    "number": "(904) 639-5395"
+  },
+  {
+    "name": "Solano Cycle of St Augustine",
+    "Address": "32 San Marco Ave\nSt. Augustine, FL 32084",
+    "lat": 29.90011108,
+    "lng": -81.31499886,
+    "website": "www.solanocycle.com",
+    "number": "(904) 825-6766"
+  },
+  {
+    "name": "Sooner Cycles",
+    "Address": "8801 S I-35 Service Rd\nOklahoma City, OK 73149",
+    "lat": 35.3789878,
+    "lng": -97.4958124,
+    "website": "",
+    "number": "(405) 641-8666"
+  },
+  {
+    "name": "South Main Iron",
+    "Address": "255 1St Sw St\nParis, TX 75460",
+    "lat": 33.65951609,
+    "lng": -95.5565168,
+    "website": "",
+    "number": "(903) 903-4993"
+  },
+  {
+    "name": "Southland Powersports & Trailers",
+    "Address": "870F West Church St.\nLexington, TN 38351",
+    "lat": 35.66053681,
+    "lng": -88.42392704,
+    "website": "",
+    "number": "(731) 307-1417"
+  },
+  {
+    "name": "Stan's Yard & Sport",
+    "Address": "215 S State St\nGobles, MI 49055",
+    "lat": 42.3588423,
+    "lng": -85.87853108,
+    "website": "",
+    "number": "(269) 628-1111"
+  },
+  {
+    "name": "Studz Hardware",
+    "Address": "4457 S Telegraph\nDearborne Heights, MI 48125",
+    "lat": 42.2773709,
+    "lng": -83.2699223,
+    "website": "",
+    "number": "(313) 563-1058"
+  },
+  {
+    "name": "TC West Motorsports",
+    "Address": "8975 Knox Ave. Sw\nHoward Lake, MN 55349",
+    "lat": 45.0227176,
+    "lng": -94.1068222,
+    "website": "",
+    "number": "(952) 442-5575"
+  },
+  {
+    "name": "The Sled Works",
+    "Address": "10964 Ny-28\nForestport, NY 13338",
+    "lat": 43.4633802,
+    "lng": -75.18687823,
+    "website": "",
+    "number": "(315) 392-5574"
+  },
+  {
+    "name": "The Tool Store Go Kart Shop",
+    "Address": "4529 S Harlem\nForestview, IL 60402",
+    "lat": 41.8092693101054,
+    "lng": -87.8015981603235,
+    "website": "",
+    "number": "(708) 484-2442"
+  },
+  {
+    "name": "Thrills On Wheels Scooters",
+    "Address": "4636 Highway 70 West\nPrinceton, NC 27569",
+    "lat": 35.45464421,
+    "lng": -78.13465265,
+    "website": "",
+    "number": "(919) 936-0995"
+  },
+  {
+    "name": "Tim's Mowers & More",
+    "Address": "12743 Us-301\nGlennville, GA 30427",
+    "lat": 32.01544636,
+    "lng": -81.91561352,
+    "website": "",
+    "number": "(912) 654-1669"
+  },
+  {
+    "name": "Tony Motor",
+    "Address": "803 W Fifth N St.\nSummerville, SC 29483",
+    "lat": 33.0332007976513,
+    "lng": -80.1819382182626,
+    "website": "",
+    "number": "(843) 576-9786"
+  },
+  {
+    "name": "Turbo Powersports",
+    "Address": "2200 Hamner Ave\nNorco, CA 92860",
+    "lat": 33.9138185167464,
+    "lng": -117.56131017406,
+    "website": "",
+    "number": "(714) 888-5114"
+  },
+  {
+    "name": "Ultra Power Sports",
+    "Address": "5830 Us-64\nPittsboro, NC 27312",
+    "lat": 35.73651044,
+    "lng": -79.08313501,
+    "website": "",
+    "number": "(919) 533-6633"
+  },
+  {
+    "name": "United Auto Sales & Motorcycle",
+    "Address": "# Km115., 4 Calle 2\nIsabela, PR 662",
+    "lat": 18.46459798,
+    "lng": -67.01376801,
+    "website": "",
+    "number": "(787) 830-3730"
+  },
+  {
+    "name": "Uptown Discount & Motorsports",
+    "Address": "1190 Julian R. Allsbrook Hwy\nRoanoke Rapids, NC 27870",
+    "lat": 36.4352611,
+    "lng": -77.6445514,
+    "website": "",
+    "number": "(252) 537-4700"
+  },
+  {
+    "name": "VTP Motorsports",
+    "Address": "906 N Carpenter Rd Ste B\nModesto, CA 95351",
+    "lat": 37.64726506,
+    "lng": -121.0299198,
+    "website": "",
+    "number": "(209) 487-1003"
+  },
+  {
+    "name": "Waco Motorsports",
+    "Address": "4901 Franklin Ave\nWaco, TX 76710",
+    "lat": 31.52219406,
+    "lng": -97.17349252,
+    "website": "",
+    "number": "(254) 756-7800"
+  },
+  {
+    "name": "Waco Motorsports-Gatesville",
+    "Address": "225 W Hwy 36 Bypass North\nGatesville, TX 76528",
+    "lat": 31.44118339,
+    "lng": -97.71359722,
+    "website": "",
+    "number": "(254) 756-7800"
+  },
+  {
+    "name": "West Powersports",
+    "Address": "223 N Gee Street Suite A\nJonesboro, AR 72401",
+    "lat": 35.84627566,
+    "lng": -90.72622036,
+    "website": "",
+    "number": "(871) 206-7713"
+  },
+  {
+    "name": "Western Maryland Outdoor Power",
+    "Address": "1619 Garden View Drive\nCumberland, MD 21502",
+    "lat": 39.62590549,
+    "lng": -78.77297393,
+    "website": "www.westernmarylandoutdoorpower.com",
+    "number": "(301) 759-3200"
+  },
+  {
+    "name": "Western Maryland Outdoor Power",
+    "Address": "19530 Garrett Hwy\nOakland, MD 21550",
+    "lat": 39.50096727,
+    "lng": -79.32823797,
+    "website": "www.westernmarylandoutdoorpower.com",
+    "number": "(301) 759-3200"
+  },
+  {
+    "name": "Western Maryland Outdoor Power",
+    "Address": "1845 Dual Hwy\nHagerstown, MD 21740",
+    "lat": 39.61143289,
+    "lng": -77.68963938,
+    "website": "www.westernmarylandoutdoorpower.com",
+    "number": "(301) 759-3200"
+  },
+  {
+    "name": "Western Maryland Outdoor Power",
+    "Address": "101 E Main St\nHancock, MD 21750",
+    "lat": 39.69765872,
+    "lng": -78.17234782,
+    "website": "www.westernmarylandoutdoorpower.com",
+    "number": "(301) 759-3200"
+  },
+  {
+    "name": "Wicked Powersports",
+    "Address": "11 Willington Ave\nSafford Springs, CT 6076",
+    "lat": 41.95333919,
+    "lng": -72.30173649,
+    "website": "www.wickedpowersportsct.com",
+    "number": "(860) 684-7763"
+  },
+  {
+    "name": "Wolf Creek Powersports",
+    "Address": "3450 Kanell Blvd\nPoplar Bluff, MO 63901",
+    "lat": 36.76610495,
+    "lng": -90.45127282,
+    "website": "",
+    "number": "(573) 712-2383"
+  },
+  {
+    "name": "Woods and Water Powersports - Hamilton",
+    "Address": "210 Bexar Ave W\nHamilton, AL 35570",
+    "lat": 34.14309849,
+    "lng": -87.99054118,
+    "website": "",
+    "number": "(205) 921-7777"
+  },
+  {
+    "name": "Woods and Water Powersports - Munford",
+    "Address": "50115 Al-21\nMunford, AL 36268",
+    "lat": 33.57016201,
+    "lng": -85.85427402,
+    "website": "",
+    "number": "(256) 831-6495"
+  },
+  {
+    "name": "Zia Powersports - Clovis",
+    "Address": "2600 Mabry Dr\nClovis, NM 88101",
+    "lat": 34.39721542,
+    "lng": -103.1723663,
+    "website": "",
+    "number": "(806) 683-0431"
+  },
+  {
+    "name": "Zia Powersports - Roswell",
+    "Address": "4709 W 2Nd Street\nRoswell, NM 88201",
+    "lat": 33.39534593,
+    "lng": -104.5909776,
+    "website": "",
+    "number": "(575) 762-6169"
+  },
+  {
+    "name": "River City Motor Company",
+    "Address": "334 Roanoke Rapids Road\nGaston, NC 27832",
+    "lat": 36.4915,
+    "lng": -77.6358,
+    "website": "https://www.rivercitync.com/",
+    "number": "(252) 537-7440"
+  },
+  {
+    "name": "Cascade Auto",
+    "Address": "118 S. Main St.\nCascade, IDAHO 83611",
+    "lat": 44.5093,
+    "lng": -116.0375,
+    "website": "www.cascadedodge.com",
+    "number": "(208) 382-4224"
+  },
+  {
+    "name": "Buteaus Auto Trailer and Recreation",
+    "Address": "262 North Street\nEllsworth, ME 4605",
+    "lat": 44.5434,
+    "lng": -68.4194,
+    "website": "",
+    "number": "(207) 479-9090"
+  },
+  {
+    "name": "Graham KTM",
+    "Address": "206 Wilson Dr\nSenatobia, MS 38668",
+    "lat": 34.6176,
+    "lng": -68.4194,
+    "website": "www.grahamktm.com",
+    "number": "(662) 562-8711"
+  },
+  {
+    "name": "Hartley Equipment Company Inc.",
+    "Address": "525 Church Rd\nGluckstadt, MS 39110",
+    "lat": 32.5323463641942,
+    "lng": -90.0868982902865,
+    "website": "http://www.hartleyequipmentco.com/",
+    "number": "(601) 499-0944"
+  }
+]

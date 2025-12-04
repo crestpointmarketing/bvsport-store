@@ -1662,5 +1662,29 @@
     "lng": -90.0868982902865,
     "website": "http://www.hartleyequipmentco.com/",
     "number": "(601) 499-0944"
+  },
+  {
+    "name": "Uncharted Adventures",
+    "Address": "1956 coal heritage rd\nBeckley Wv 24701",
+    "lat": 37.7934,
+    "lng": -81.2381,
+    "website": "",
+    "number": "(304) 878-5878"
+  },
+  {
+    "name": "Uncharted Adventures",
+    "Address": "4679 Robert c Byrd dr\r\nBeckley Wv 25801",
+    "lat": 37.7776,
+    "lng": -81.1902,
+    "website": "",
+    "number": "(304) 878-5878"
+  },
+  {
+    "name": "Uncharted Adventures",
+    "Address": "261 Mercer mall rd\r\nBluefield Wv 24701",
+    "lat": 37.2698,
+    "lng": -81.222,
+    "website": "",
+    "number": "(304) 878-5878"
   }
 ]

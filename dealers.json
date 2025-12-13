@@ -1686,5 +1686,14 @@
     "lng": -81.222,
     "website": "",
     "number": "(304) 878-5878"
-  }
+  },
+  {
+  "name": "Glen Rabe",
+  "Address": "15538 US Highway 70\nArdmore, OK 73401",
+  "lat": 34.1732866,
+  "lng": -97.2387187,
+  "website": "https://www.youroutdoorguys.com/",
+  "email": "YourOutdoorGuys@glenrabe.com",
+  "number": "(580) 798-0000"
+}
 ]

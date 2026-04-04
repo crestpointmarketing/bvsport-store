@@ -1,5 +1,25 @@
 [
   {
+  "name": "JAM Small Engine Service & Sales",
+  "address": "6789 Providence St, Whitehouse, OH 43571",
+  "lat": 41.518924,
+  "lng": -83.806087,
+  "website": "",
+  "phone": "",
+  "contact": "",
+  "email": ""
+},
+  {
+  "name": "Southern Supply Group",
+  "address": "816 1st Ave W, Reform, AL 35481",
+  "lat": 33.378483,,
+  "lng": -88.015162,
+  "website": "https://shopsouthernsupply.com",
+  "phone": "+1 (205) 394-7998",
+  "contact": "Chris Bowles",
+  "email": "southernsupplygllc@yahoo.com"
+}，
+  {
     "name": "231 Farm Center",
     "Address": "171 Skipjack Road\nPrince Frederick, MD 20678",
     "lat": 38.509966,

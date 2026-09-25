@@ -1,5 +1,13 @@
 [
   {
+   "name": "House of Wheels",
+  "Address": "901 Riverside Dr, Brownwood, Texas 76801",
+  "lat": 31.725894,
+  "lng": -98.978382,
+  "website": "",
+  "number": "(325) 643-5555"
+},
+  {
   "name": "JAM Small Engine Service & Sales",
   "Address": "6789 Providence St, Whitehouse, OH 43571",
   "lat": 41.518924,

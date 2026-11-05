@@ -1,5 +1,21 @@
 [
   {
+    "name": "C&H Power Sport",
+    "Address": "208 E 2nd St, Odessa, TX 79761",
+    "lat": 31.8463,
+    "lng": -102.366319,
+    "website": "",
+    "number": ""
+  },
+  {
+    "name": "C&H Powersports",
+    "Address": "2810 SW Loop 410, San Antonio, TX 78227",
+    "lat": 29.400984,
+    "lng": -98.650137,
+    "website": "",
+    "number": ""
+  },
+  {
    "name": "House of Wheels",
   "Address": "901 Riverside Dr, Brownwood, Texas 76801",
   "lat": 31.725894,
